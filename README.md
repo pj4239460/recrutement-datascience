@@ -8,7 +8,7 @@ Les 3 études sont:
 chaque étude contient un README contenant plus de détails sur l'étude 
 (la nature des données et la variable d'intérêt)
 
-Une seule étude est attendue. 
+**Une seule étude est attendue.** 
 Le but est d'évaluer:
 - la capacité de réflexion
 - la qualité du code
