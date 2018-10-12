@@ -12,12 +12,12 @@ chaque étude contient un README contenant plus de détails sur l'étude
 Le but est d'évaluer:
 - la capacité de réflexion
 - la qualité du code
-- laa capacité à être autonome sur un sujet
+- la capacité à être autonome sur un sujet
 
 La précision de l'algorithme n'est pas prise en compte, cependant la présentation et le commentaire d'une métrique d'évaluation du modèle
 choisis est attendue.
 
-Le rendu doit comporter 2 choses, le code qui permette de suivre la dmarche et de relancer le modèle choisis ainsi que
+Le rendu doit comporter 2 choses, le code qui permette de suivre la démarche et de relancer le modèle choisis ainsi que
 que des explications présentant la démarche. Sont attendues comme explications:
 - les explications sur le chargement des données et l'exploration
 - les justifications du choix du modèle
