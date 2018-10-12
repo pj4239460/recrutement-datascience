@@ -29,6 +29,6 @@ Pour ce qui est des formats et langages, le candidat est libre de choisir les ou
 
 Charger les données, les nettoyer faire tourner un modèle et présenter la démarche doit prendre approximativement 3-4 heures.
 
-Un délai d'une semaine pour réaliser l'étude est raisonnable.
+Un délai d'une semaine pour réaliser l'étude est accordé au candiat sauf si notification préalable d'une difficulté d'emploi du temps.
 
 Suite à la réception du travail du candidat, selon la qualité du travail effectué, le candidat sera convoqué à un entretien **présentiel**
